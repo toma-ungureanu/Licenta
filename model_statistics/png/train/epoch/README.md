@@ -1,3 +1,9 @@
+![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/epoch/epoch_rmse_train_top5.png)
+*Epoch RMSE train top 5*
+
+![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/epoch/epoch_loss_train_top5.png)
+*Epoch loss train top 5*
+
 | What each color means                                                                   | Min epoch root mean square error | Max epoch value mean square error | Min epoch loss | Max epoch loss | Convergence time |
 |-----------------------------------------------------------------------------------------|----------------------------------|-----------------------------------|----------------|----------------|------------------|
 | Brown: LeakyReLU, no dropout, multiple skip additions, 3e-4 learning rate               | 0.3561                           | 0.6218                            | 0.1268         | 0.3866         | 4h 02m 39s       |
