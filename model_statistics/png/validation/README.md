@@ -13,7 +13,7 @@
 | Brown      |   0.3794       |0.4514 |
 | Gray          |  0.3818      |0.4600|
 
-<img src="https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/validation/epoch_loss_val_top5" width="1500" height="400">
+<img src="https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/validation/epoch_loss_val_top5.png" width="1500" height="400">
 *Epoch loss validation top 5*
 
 | Colour | Min validation epoch loss | Max validation epoch loss |
