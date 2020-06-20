@@ -5,7 +5,7 @@
 ![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/epoch/epoch_rmse_train_top5.png)
 *Epoch RMSE train top 5*
 
-| Colour | Min epoch root mean square error | Max epoch value mean square error |
+| Colour | Min train epoch root mean square error | Max train epoch value mean square error |
 |----------------|----------------|----------------|
 | Brown          |  0.3561        |0.6218  |
 | Orange         |  0.3790        | 0.6140|
@@ -16,7 +16,7 @@
 ![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/epoch/epoch_loss_train_top5.png)
 *Epoch loss train top 5*
 
-| Colour | Min epoh loss | Max epoh loss |
+| Colour | Min train epoch loss | Max train epoch loss |
 |----------------|----------------|----------------|
 | Brown          |  0.1268       |0.6968  |
 | Orange         |  0.1436       | 1.1398|
