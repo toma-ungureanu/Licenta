@@ -1,11 +1,5 @@
-What each color means:
-----------------------
-
-1. Brown: LeakyReLU, no dropout, multiple skip additions, 3e-4 learning rate
-2. Orange: Original convolutional neural network, 3e-4 learning rate
-3. Gray: LeakyReLU, 3e-4 learning rate
-4. Navy blue:  LeakyReLU, no dropout, 3e-4 learning rate
-5. Green: LeakyReLU, no dropout, skip additions on medium sized layers, 3e-4 learning rate
+| Brown: LeakyReLU, no dropout, multiple skip additions, 3e-4 learning rate | Orange: Original convolutional neural network, 3e-4 learning rate | Orange: Original convolutional neural network, 3e-4 learning rate | Gray: LeakyReLU, 3e-4 learning rate | Navy blue: | LeakyReLU, no dropout, 3e-4 learning rate |
+|---------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------|------------|-------------------------------------------|
 
 Min batch root mean square error:
 ---------------------------
