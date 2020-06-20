@@ -1,4 +1,5 @@
 ![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/validation/epoch_loss_val_top5.png)
+*Epoch loss validation top 5*
 
 What each color means:
 ----------------------
