@@ -13,24 +13,16 @@ What each color means:
 4. Brown:  LeakyReLU, no dropout, 3e-4 learning rate
 5. Gray: LeakyReLU, no dropout, skip additions on medium sized layers, 3e-4 learning rate
 
-Min epoch root mean square error:
+
 ---------------------------
 
-1. 0.3820
-2. 0.3708
-3. 0.3715
-4. 0.3794
-5. 0.3818
 
 
-Max epoch value mean square error:
+
+
 ----------------------------
 
-1. 0.7070
-2. 0.4775
-3. 0.4525
-4. 0.4514
-5. 0.4600
+
 
 
 Min epoch loss:
@@ -61,3 +53,11 @@ Convergence time:
 3. 3h 08m 20s
 4. 2h 45m 43s
 5. 3h 21m 49s
+
+| Min epoch root mean square error:  | Max epoch value mean square error: |
+| ------------- | ------------- |
+| 1. 0.3820  |   1. 0.7070 |
+| 2. 0.3708  |   2. 0.4775 |
+| 3. 0.3715  |   3. 0.4525 |
+| 4. 0.3794  |   4. 0.4514 |
+| 5. 0.3818  |   5. 0.4600 |
