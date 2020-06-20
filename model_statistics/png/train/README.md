@@ -2,6 +2,7 @@
 |---------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------|------------
 
 ![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/batch_rmse_top5.png =1492x400)
+<img src="https://github.com/favicon.ico" width="48">
 *Batch RMSE train top 5*
 
 |Colour                             |Min batch root mean square error | Max batch value mean square error |
