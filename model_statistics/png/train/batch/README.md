@@ -17,11 +17,11 @@
 
 | Colour | Min batch loss | Max batch loss |
 |----------------|----------------|----------------|
-| Brown          | 0.6968         | 0.1268|
-| Orange         | 1.1398         | 0.1436|
-| Gray           | 0.8799         | 0.1459|
-| Navy blue      | 0.6591         | 0.1277|
-| Green          | 0.7393         | 0.1346|
+| Brown          |  0.1268       |0.6968  |
+| Orange         |  0.1436       | 1.1398|
+| Gray           |   0.1459       |0.8799|
+| Navy blue      |   0.1277       |0.6591 |
+| Green          |    0.1346       |0.7393|
 
 
 | Colour | Convergence time |
