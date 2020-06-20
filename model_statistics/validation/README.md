@@ -2,7 +2,7 @@
 | Light blue: LeakyReLU, no dropout, multiple skip additions, 3e-4 learning rate| Navy blue: Original convolutional neural network, 3e-4 learning rate| Orange: LeakyReLU, 3e-4 learning rate | Brown: LeakyReLU, no dropout, 3e-4 learning rate |  Gray: LeakyReLU, no dropout, skip additions on medium sized layers, 3e-4 learning rate |
 |----------------|------------------|----------------|------------------|------------------|
 
-<img src="https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/validation/epoch_rmse_val_top5.png" width="1500" height="400">
+<img src="https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/validation/epoch_rmse_val_top5.png" width="1500" height="500">
 *Epoch RMSE validation top 5*
 
 | Colour |Min validation epoch root mean square error | Max validation epoch root mean square error |
@@ -13,7 +13,7 @@
 | Brown      |   0.3794       |0.4514 |
 | Gray          |  0.3818      |0.4600|
 
-<img src="https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/validation/epoch_loss_val_top5.png" width="1500" height="400">
+<img src="https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/validation/epoch_loss_val_top5.png" width="1500" height="500">
 *Epoch loss validation top 5*
 
 | Colour | Min validation epoch loss | Max validation epoch loss |
