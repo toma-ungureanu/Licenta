@@ -1,5 +1,5 @@
-| Brown: LeakyReLU, no dropout, multiple skip additions, 3e-4 learning rate | Orange: Original convolutional neural network, 3e-4 learning rate | Orange: Original convolutional neural network, 3e-4 learning rate | Gray: LeakyReLU, 3e-4 learning rate | Navy blue: | LeakyReLU, no dropout, 3e-4 learning rate |
-|---------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------|------------|-------------------------------------------|
+| Brown: LeakyReLU, no dropout, multiple skip additions, 3e-4 learning rate | Orange: Original convolutional neural network, 3e-4 learning rate | Orange: Original convolutional neural network, 3e-4 learning rate | Gray: LeakyReLU, 3e-4 learning rate | Navy blue: LeakyReLU, no dropout, 3e-4 learning rate |
+|---------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------|------------
 
 Min batch root mean square error:
 ---------------------------
