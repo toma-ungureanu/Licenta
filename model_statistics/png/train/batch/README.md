@@ -1,7 +1,7 @@
 | Brown: LeakyReLU, no dropout, multiple skip additions, 3e-4 learning rate | Orange: Original convolutional neural network, 3e-4 learning rate | Orange: Original convolutional neural network, 3e-4 learning rate | Gray: LeakyReLU, 3e-4 learning rate | Navy blue: LeakyReLU, no dropout, 3e-4 learning rate |
 |---------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------|------------
 
-![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/batch/batch_rmse_top5.pngg)
+![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/batch/batch_rmse_top5.png)
 *Batch RMSE train top 5*
 
 | Min batch root mean square error | Max batch value mean square error |
