@@ -1,7 +1,7 @@
 | Brown: LeakyReLU, no dropout, multiple skip additions, 3e-4 learning rate | Orange: Original convolutional neural network, 3e-4 learning rate |  Gray: LeakyReLU, 3e-4 learning rate |  Navy blue: LeakyReLU, no dropout, 3e-4 learning rate | Green: LeakyReLU, no dropout, skip additions on medium sized layers, 3e-4 learning rate|
 |---------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------|------------
 
-![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/batch/batch_rmse_top5.png)
+![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/batch_rmse_top5.png)
 *Batch RMSE train top 5*
 
 |Colour                             |Min batch root mean square error | Max batch value mean square error |
@@ -12,7 +12,7 @@
 | Navy blue                                 | 0.3574                           | 0.8119                            |
 | Green                                 | 0.3669                           | 0.8598                            |
 
-![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/batch/batch_loss_top5.png)
+![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/batch_loss_top5.png)
 *Batch loss train top 5*
 
 | Colour | Min batch loss | Max batch loss |
@@ -24,7 +24,7 @@
 | Green          |    0.1346       |0.7393|
 
 
-![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/epoch/epoch_rmse_train_top5.png)
+![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/epoch_rmse_train_top5.png)
 *Epoch RMSE train top 5*
 
 | Colour | Min train epoch root mean square error | Max train epoch value mean square error |
@@ -35,7 +35,7 @@
 | Navy blue      |   0.3574       |0.5174 |
 | Green          |  0.3669       |0.5252|
 
-![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/epoch/epoch_loss_train_top5.png)
+![alt text](https://github.com/toma-ungureanu/Licenta/blob/master/model_statistics/png/train/epoch_loss_train_top5.png)
 *Epoch loss train top 5*
 
 | Colour | Min train epoch loss | Max train epoch loss |
